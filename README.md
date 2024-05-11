@@ -1,5 +1,7 @@
 # quarkus-rest-client
 
+![quarkus-rest-client](https://github.com/icanerdogan/Quarkus-Rest-Client-TV-Maze-API-Repository/assets/52867508/ed272470-5963-4343-9298-916552d63112)
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
